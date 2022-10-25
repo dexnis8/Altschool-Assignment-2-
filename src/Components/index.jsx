@@ -1,0 +1,8 @@
+export {default as Contact} from './Contact'
+export {default as Footer} from './Footer'
+export {default as Home} from './Home'
+export {default as Navbar} from './Navbar'
+export {default as Toggler} from './Toggler'
+export {default as Users} from './Users'
+export {default as UserDetail} from './UserDetail'
+export {default as ErrorPage} from './ErrorPage'

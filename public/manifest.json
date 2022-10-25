@@ -1,0 +1,25 @@
+{
+  "short_name": "My Portfolio Website",
+  "name": "Abdrahman Oladimeji Portfolio Website",
+  "icons": [
+    {
+      "src": "A.png",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "A.png",
+      "type": "image/png",
+      "sizes": "auto"
+    },
+    {
+      "src": "A.png",
+      "type": "image/png",
+      "sizes": "auto"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
